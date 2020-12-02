@@ -4,7 +4,7 @@
 ## Características
 - En este proyecto se propone usar un modelo probabilístico, particularmente redes bayesianas para capturar dependencia entre los atributos en un registro de eventos para obtener una predicción de la siguiente actividad
 - Implementación en lenguaje python.
-- Funcionaiento basado en una entrada de bitácora de eventos.
+- Funcionamiento basado en una entrada de bitácora de eventos.
 
 
  
