@@ -37,7 +37,9 @@
 - Probabilidades de ocurrencia de actividades dado las anteriores.
 - Predicción de eventos.
 
-
+## Autores:
+- Arely Moreno, arelymoreno230196@gmail.com.
+- Willioth Rivera, wrivera@uat.edu.mx, williothrivera@gmail.com,.
 
 # Capturas
 
