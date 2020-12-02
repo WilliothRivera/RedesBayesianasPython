@@ -7,11 +7,7 @@
 - Implementación en lenguaje python.
 
 
-**Contenido**
-
- [TOCM]
-
- [TOC]
+ 
 ## Requerimientos
 + Python 3.x
 + Libreria networkx
