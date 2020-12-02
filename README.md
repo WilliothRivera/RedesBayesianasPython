@@ -3,8 +3,8 @@
 
 ## Características
 - En este proyecto se propone usar un modelo probabilístico, particularmente redes bayesianas para capturar dependencia entre los atributos en un registro de eventos para obtener una predicción de la siguiente actividad
-- Sistema inteligente para la predicción de la secuencia de actividades a partir de un esquema de red bayesiana.
 - Implementación en lenguaje python.
+- Funcionaiento basado en una entrada de bitácora de eventos.
 
 
  
